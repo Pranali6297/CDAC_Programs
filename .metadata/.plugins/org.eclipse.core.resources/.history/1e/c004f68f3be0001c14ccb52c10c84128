@@ -1,0 +1,32 @@
+package Polynomial;
+
+public class LLPolynomial {
+
+	public static void main(String[] args) {
+		
+		Polynom poly = new  Polynom();
+		poly.insert(7,4);
+		poly.insert(7,4);
+		poly.insert(7,4);
+		poly.insert(7,4);
+		poly.insert(7,4);
+		poly.insert(7,4);
+		
+		poly.display();
+	}
+
+}
+
+class Polynom
+{
+	polyNode start;
+	
+	public void insert(double co,int exp)
+	{
+		polyNode newnode = new polyNode(co,exp);
+		
+		if()
+	}
+	
+	
+}

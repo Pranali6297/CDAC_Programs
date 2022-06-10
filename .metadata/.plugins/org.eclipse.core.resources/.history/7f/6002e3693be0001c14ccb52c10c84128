@@ -1,0 +1,13 @@
+package Polynomial;
+
+public class polyNode {
+	double coeff;
+	int expo;
+	polyNode next;
+	
+	public polyNode(double coeff,int expo)
+	{
+		
+	}
+
+}

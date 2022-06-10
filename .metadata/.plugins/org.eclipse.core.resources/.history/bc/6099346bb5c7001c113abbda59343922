@@ -1,0 +1,23 @@
+package ReveseWord;
+
+
+public class Reverse {
+	
+	public static void reverse(char[] strarr,int start,int end)
+	{
+		char temp;
+		while(start <= end)
+		{
+			temp = strarr[start];
+			
+		}
+	}
+
+	public static void reverseWord(char[] strarr, int start, int end) 
+	{
+		
+		
+	}
+	
+	
+}

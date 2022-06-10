@@ -1,0 +1,20 @@
+//Given Sorted Array And number x,find the pair in array whose sum is closest to x.
+
+package ArraySum;
+ 
+public class Array {
+
+	public static void main(String[] args) {
+		
+		int arr[] = {20,25,30,40,65,80,100,120};
+		
+		int x = 54;
+		
+		int sum = arr[0]+arr[1];
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,19 @@
+package ReveseWord;
+
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		
+		System.out.println("Enter the String");
+		Scanner sc = new Scanner(System.in);
+		String str = sc.nextLine();
+		
+		char[] strarr = str.toCharArray();
+		
+		System.out.println(strarr);
+		
+		Reverse.reverse(strarr, 0,str.length()-1);
+	}
+
+}

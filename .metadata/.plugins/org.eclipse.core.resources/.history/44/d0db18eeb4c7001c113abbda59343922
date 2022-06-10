@@ -1,0 +1,16 @@
+package ReveseWord;
+
+
+public class Reverse {
+	
+	public static void reverse(char str[],int start,int end)
+	{
+		char temp
+		while(start <= end)
+		{
+			temp
+		}
+	}
+	
+	
+}
